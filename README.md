@@ -1,3 +1,6 @@
+原文时间：2024.3.31，翻译时间：2024.5.*
+
+
 # HAA - Home Accessory Architect
 
 [![Release](https://img.shields.io/github/v/tag/RavenSystem/haa?color=red&label=release)](https://github.com/RavenSystem/esp-homekit-devices/releases/latest)
@@ -9,6 +12,8 @@
 [![Chat](https://img.shields.io/discord/594630635696553994?style=social)](https://discord.com/servers/esp-homekit-devices-594630635696553994)
 
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/RavenSystem/ravensystem-media/master/works-with-apple-home.svg"></p>
+
+个人复制翻译的 [esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices)，喜欢的请去 [原地址](https://github.com/RavenSystem/esp-homekit-devices) 查看。
 
 Firmware to bring native Apple HomeKit support and custom configurations to any device based on ESP32, including all ESP-IDF WiFi compatible chips, and ESP8266 microcontrollers.
 
